@@ -1,6 +1,6 @@
 ---
-title: Index
-layout: Index
+title: Home
+layout: Home
 ---
 
 ## Appendix: Course Syllabi Index
