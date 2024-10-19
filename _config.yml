@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Summary Sheet - Master's programme in Virtual Reality and Augmented Reality Appendix
+description: A github pages site for hosting the syllabus index for the LU AR/VR programme summary sheet
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+search_enabled: true
